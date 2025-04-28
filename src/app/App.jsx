@@ -18,7 +18,7 @@ function App() {
           <SubCategoria texto={'perfume'}/>
           <Titulo texto={'Gabrielle Essence Eau De parfum'}/>
           <ParagrafoSessao texto={"A floralm, solar and voluptuous intepretaion composed by Oliver Polge, Perfumer-Creator for the house of CHANEL"}/>
-          <SessaoPrecos precoAtual={'149.99'} precoAnterior={'169.99'}/>
+          <SessaoPrecos precoAtual={'149.99'} precoAnterior={'169.99'} desconto={true}/>
           <Botao/>
         </ContainerDescricao>
   
