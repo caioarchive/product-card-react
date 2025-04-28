@@ -1,0 +1,4 @@
+ <h3 className="valorAtual">
+                $149.99
+            </h3>
+            <p className="pMenor">$169.99</p>
